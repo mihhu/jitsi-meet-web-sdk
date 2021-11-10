@@ -1,5 +1,5 @@
 import { initExternalApi, fetchExternalApi } from '..';
-import { IJitsiMeetExternalApi } from '../../lib/types';
+import { IJitsiMeetExternalApi } from '../types';
 
 const SUCCESS_DOMAIN = 'meet.jit.si';
 const ERROR_DOMAIN = 'error';
